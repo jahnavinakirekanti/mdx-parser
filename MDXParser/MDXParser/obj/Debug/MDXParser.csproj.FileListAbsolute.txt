@@ -1,0 +1,9 @@
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\MDXParser.exe.config
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\obj\Debug\MDXParser.csprojResolveAssemblyReference.cache
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\MDXParser.exe
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\MDXParser.pdb
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\Antlr4.Runtime.Standard.dll
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\obj\Debug\MDXParser.exe
+c:\users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\obj\Debug\MDXParser.pdb
+C:\Users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\skonduri\documents\visual studio 2015\Projects\MDXParser\MDXParser\bin\Debug\Newtonsoft.Json.xml
